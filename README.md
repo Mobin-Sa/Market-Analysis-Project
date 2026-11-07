@@ -1,5 +1,9 @@
 # Market Analysis Project
 
+<p align="center">
+  <img src="monte_carlo_simulation.png" alt="Monte Carlo Simulation" width="80%">
+</p>
+
 This project analyzes the price behavior of three major technology stocks — Apple (AAPL), Google (GOOGL), and Microsoft (MSFT) — over the period from January 1, 2020, to December 31, 2024.
 
 <br>
